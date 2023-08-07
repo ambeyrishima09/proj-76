@@ -1,0 +1,33 @@
+body {
+    background-color: darkgray;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+#heading {
+    color: white;
+}
+
+text{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+
+#video {
+    padding-bottom: 18px;
+}
